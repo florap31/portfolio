@@ -65,9 +65,11 @@ table {
 
 p {
 	color: #15171a;
-	font-size: 17;
+	font-size: 17px;
 	line-height: 31px;
 }
+
+
 
 strong {
 	font-weight: 600;
@@ -227,9 +229,16 @@ h1.name {
 
 /* Achievements */
 
-.link {
+.info {
 	float: right;
 	margin-top: -1rem;
+	display: flex;
+	justify-content: space-between;
+	width: 20%;
+	align-items: baseline;
+}
+.icon {
+	max-height: 20px;
 }
 .cards {
 	max-width: 1120px;
@@ -271,7 +280,7 @@ h1.name {
 	padding-top: 50px
 }
 
-.card-active , .card:hover{
+.card-active , .card:hover, .card1:hover, .card2:hover{
 	transform: scale(1.02);
 	transition: 0.5s;
 	background-color: #fff;
