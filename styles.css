@@ -35,7 +35,7 @@ footer, header, hgroup, menu, nav, section {
 a{
 	text-decoration: none;
 	text-transform: none;
-	color: #4A90E2;
+	color: #04143A;
 }
 
 body {
@@ -117,34 +117,6 @@ h1.name {
 	font-size: 50px;
 	font-weight: 300;
 	display: inline-block;
-}
-.name:hover {
-	-webkit-animation:name 2s infinite;
-	-ms-animation:name 2s infinite;
-	-o-animation:name 2s infinite;
-	animation:name 2s infinite;
-}
-@-webkit-keyframes name {
-	0% {color: #4affbc;}
-	50% {color: #1769ff;}
-	100% {color: #4affbc;}
-}
-
-@-ms-keyframes name {
-	0% {color: #4affbc;}
-	50% {color: #1769ff;}
-	100% {color: #4affbc;}
-}
-@-o-keyframes name {
-	0% {color: #4affbc;}
-	50% {color: #1769ff;}
-	100% {color: #4affbc;}
-}
-@keyframes name {
-	0% {color: #4affbc;}
-	50% {color: #1769ff;}
-	100% {color: #4affbc;}
-
 }
 
 .job-title {
@@ -237,6 +209,18 @@ h1.name {
 	width: 20%;
 	align-items: baseline;
 }
+@media screen and (max-width: 800px) {
+
+	.info {
+		float: right;
+		margin-top: -1rem;
+		display: flex;
+		justify-content: space-between;
+		width: 35%;
+		align-items: baseline;
+
+	}
+}
 .icon {
 	max-height: 20px;
 }
@@ -321,6 +305,20 @@ h1.name {
 	margin-left: 370px;
 
 	margin-bottom: 20px;
+}
+@media screen and (max-width: 800px) {
+
+	.skill-meta {
+		display: inline-block;
+		max-width: 300px;
+		text-align: center;
+
+		margin-top: 15px;
+
+		margin-bottom: 20px;
+		margin-left: auto;
+
+	}
 }
 
 .skill-meta h3 {
