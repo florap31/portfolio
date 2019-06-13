@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe365d87-c9b5-4734-ada0-bc538c18da51" name="Default Changelist" comment="" />
+    <list default="true" id="fe365d87-c9b5-4734-ada0-bc538c18da51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+            <state relative-caret-position="267">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -25,8 +29,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
-              <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+            <state relative-caret-position="467">
+              <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/photography.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -38,6 +51,7 @@
       <find>link</find>
       <find>.skill-m</find>
       <find>.info</find>
+      <find>info</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -46,13 +60,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/photography.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="148" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="158" />
+    <option name="y" value="76" />
     <option name="width" value="1268" />
     <option name="height" value="711" />
   </component>
@@ -61,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,7 +89,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -80,6 +96,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,19 +126,21 @@
       <updated>1557283133862</updated>
       <workItem from="1557283137902" duration="2126000" />
       <workItem from="1557436682389" duration="599000" />
-      <workItem from="1560001955055" duration="2581000" />
+      <workItem from="1560001955055" duration="2583000" />
+      <workItem from="1560379000751" duration="2561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5306000" />
+    <option name="totallyTimeSpent" value="7869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="148" width="1268" height="711" extended-state="1" />
+    <frame x="158" y="76" width="1268" height="711" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.25774878" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49757674" visible="true" weight="0.26182708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Favorites" order="2" sideWeight="0.50080776" side_tool="true" visible="true" weight="0.25774878" />
+      <window_info id="Favorites" order="2" sideWeight="0.5024233" side_tool="true" visible="true" weight="0.26182708" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -149,15 +172,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="467">
+          <caret line="228" column="13" selection-start-line="228" selection-start-column="13" selection-end-line="228" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="82" selection-start-line="19" selection-start-column="82" selection-end-line="19" selection-end-column="82" />
+        <state relative-caret-position="267">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
